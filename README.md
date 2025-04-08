@@ -1,6 +1,7 @@
 Customer Relationship Management (CRM) Application
 
 About
+
 This project is a Customer Relationship Management (CRM) application built using Spring Boot. It provides a backend solution for managing customer data, interactions, products, and sales information. 
 The application includes features for creating, reading, updating, and deleting (CRUD) operations on various entities, with role-based access control implemented using Spring Security.
 
